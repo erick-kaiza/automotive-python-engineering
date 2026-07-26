@@ -33,6 +33,6 @@ Total Fuel Price:ksh 606.00
 -Plot Fuel Economy graphs
 -Predict annuak fuel expenses
 
-AUTOR:ERICK KIROBI
+AUTHOR:ERICK KIROBI
 
 
