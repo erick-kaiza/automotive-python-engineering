@@ -33,6 +33,6 @@ Engineering equations include:
 -Python programming fundamentals
 
 ************AUTHOR*************
-Erick Kirobi
+Erick Kirobi .
 
 Automotive Engineering Student|Python for Automotive Engineering |Github Portfolio Project
