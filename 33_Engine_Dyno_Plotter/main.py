@@ -44,6 +44,7 @@ def main():
     ax2.set_ylabel('Power(kW)',color='red')
 
     plt.title('Engine Dyno Curve (Honda K20) Civic Type R')
+    plt.savefig('engine_dyno_curve.png')
     plt.show()
 
 if __name__ == '__main__':
