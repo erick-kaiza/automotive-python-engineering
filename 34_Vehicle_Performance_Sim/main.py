@@ -55,6 +55,7 @@ def main():
     plt.ylabel('Wheel Torque (Nm)')
     plt.title('Wheel Torque vs Vehicle Speed')
     plt.legend()
+    plt.savefig('wheel_torque_vs_vehicle_speed.png')
     plt.show()
 
 if __name__ == '__main__':
