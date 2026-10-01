@@ -4,4 +4,4 @@ It takes in as inputs from the user,width,aspect ratio,diameter to calculate sid
 
 The program also checks the user input validation and displays an error if the user does not enter the correct format or leaves a blank space.
 
-AUTHOR ERICK KIROBI
+AUTHOR ERICK KIROBI   
