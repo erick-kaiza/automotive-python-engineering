@@ -1,0 +1,5 @@
+This project/tool calculates the ideal thermal efficiency of petrol engines using the otto cycle and shows how compression ratio affects it.It compares three real engines,among them the 2ZR-FXE being a hybrid.However ,the Otto formula only depends on compression ratio,so it ignores boost and overestimates fficiency for the 2ZR engine,which runs the atkinson cycle
+
+It calculates,ideal otto efficiency,temperature of the air after compression,from a 25 C intake,sweeps across 6-16 to build the compression ratio curve,finds the most efficient engine and efficiency gain between the lowest and highest engine effficiencies,plots the efficiency curve with the three engines marked on it.
+
+It outputs a comparison table showing each engine's compression ratio,efficiency and compression temperature,the most efficient engine and its efficiency and a saved image with two charts: efficiency vs compression ratio & efficiency per engine
